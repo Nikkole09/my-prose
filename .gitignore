@@ -1,0 +1,22 @@
+# Maven build output
+target/
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# Backup files
+*~
